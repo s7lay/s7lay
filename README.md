@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sıla</h1>
 <h3 align="center">A passionate software engineering student who has interest in game development</h3>
 
-- 🔭 I’m currently working on **flight simulator**
+- 🔭 I’m currently working on **ambulance simulator**
 
 - 🌱 I’m currently learning **3D,2D game development.**
 
